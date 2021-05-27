@@ -602,7 +602,7 @@ async def deezer(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @Music_op_bot to your Group and try again</b>",
+                                  "\n\nOr manually add @Gods_musicop to your Group and try again</b>",
                               )
                               pass
     try:
@@ -732,7 +732,7 @@ async def jiosaavn(client: Client, message_: Message):
                               #print(e)
                               await lel.edit(
                                   f"<b>🔴 Flood Wait Error 🔴 \nUser {user.first_name} couldn't join your group due to heavy requests for userbot! Make sure user is not banned in group."
-                                  "\n\nOr manually add @Music_op_bot to your Group and try again</b>",
+                                  "\n\nOr manually add @Gods_musicop to your Group and try again</b>",
                               )
                               pass
     try:
